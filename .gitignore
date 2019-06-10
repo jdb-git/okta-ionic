@@ -19,6 +19,9 @@ npm-debug.log*
 .tmp/
 .versions/
 coverage/
+Default*
+drawable*
+icon*
 www/
 node_modules/
 tmp/
