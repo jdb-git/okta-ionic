@@ -1,0 +1,6 @@
+{
+    "Security.framework": 2,
+    "SystemConfiguration.framework": 1,
+    "SafariServices.framework": 1,
+    "WebKit.framework": 1
+}
